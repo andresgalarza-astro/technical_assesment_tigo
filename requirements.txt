@@ -1,0 +1,16 @@
+tqdm
+ipywidgets
+jupyter
+numpy
+pandas
+pyarrow
+fastparquet
+matplotlib
+seaborn
+plotly
+scikit-learn
+tensorflow
+jupyterlab
+missingno
+imbalanced-learn
+
